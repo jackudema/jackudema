@@ -1,8 +1,12 @@
-### Sir Syntax savy
+# Sir Syntax savy
 
-# Fullstack software/ethical hacker
+## Fullstack software/ethical hacker
 
-hi im a fullstack website devloper with a passion to invate in the currently 
+hi im a fullstack website devloper currently very involded in the devloper comunitys though online fourms like reddit or chat rooms like discord
+trying my best to help and mentor those with less experince than me. currently invloded in side projects including webstie devlopment and freelancing though 
+tor. Always learning new things which i am truly blessed 
 
--
+life is allabout perspective just change the lens to see the problem/solution
+
 langagues and tools
+<ins> </ins>
