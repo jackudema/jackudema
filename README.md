@@ -1,4 +1,4 @@
-# Sir Syntax savy
+# Sir SyntaxSavy
 
 **Fullstack software/ethical hacker**
 
