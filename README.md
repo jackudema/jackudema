@@ -7,7 +7,7 @@ trying my best to help and mentor those with less experince than me. currently i
 tor. Always learning new things which i am truly blessed 
 
 life is allabout perspective just change the lens to see the problem/solution
-
 ---
 ## Langagues and Tools
 
+          
