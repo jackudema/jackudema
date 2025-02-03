@@ -1,6 +1,6 @@
 # 👨‍💻 Sir SyntaxSavy (Jan Waldrik Udema)
 
-** Professional Computer Surgery (Full-Stack Developer | Ethical Hacker)**  
+**Professional Computer Surgery (Full-Stack Developer | Ethical Hacker)**  
 
 Hi, I'm a full-stack web developer passionate about coding and community. I actively engage in developer communities through forums like Reddit and Discord, mentoring and assisting others while constantly learning new technologies.  
 
