@@ -1,6 +1,6 @@
 # Sir Syntax savy
 
-** Fullstack software/ethical hacker **
+**Fullstack software/ethical hacker**
 
 hi im a fullstack website devloper currently very involded in the devloper comunitys though online fourms like reddit or chat rooms like discord
 trying my best to help and mentor those with less experince than me. currently invloded in side projects including webstie devlopment and freelancing though 
