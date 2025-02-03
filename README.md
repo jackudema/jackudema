@@ -8,6 +8,6 @@ tor. Always learning new things which i am truly blessed
 
 life is allabout perspective just change the lens to see the problem/solution
 
-## langagues and tools
 ---
+## langagues and tools
 
